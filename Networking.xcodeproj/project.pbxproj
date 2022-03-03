@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D7166C4E27D0570B00ADC9ED /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = D7166C4D27D0570B00ADC9ED /* data.json */; };
+		D7C4B9D027D0E8F400ED9935 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C4B9CF27D0E8F400ED9935 /* Models.swift */; };
 		D7EEA5DC27CBA7C8006A1446 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EEA5DB27CBA7C8006A1446 /* AppDelegate.swift */; };
 		D7EEA5DE27CBA7C8006A1446 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EEA5DD27CBA7C8006A1446 /* SceneDelegate.swift */; };
 		D7EEA5E027CBA7C8006A1446 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EEA5DF27CBA7C8006A1446 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		D7166C4D27D0570B00ADC9ED /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = SOURCE_ROOT; };
+		D7C4B9CF27D0E8F400ED9935 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		D7EEA5D827CBA7C8006A1446 /* Networking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Networking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7EEA5DB27CBA7C8006A1446 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D7EEA5DD27CBA7C8006A1446 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				D7EEA5DD27CBA7C8006A1446 /* SceneDelegate.swift */,
 				D7EEA5DF27CBA7C8006A1446 /* ViewController.swift */,
 				D7EEA5E127CBA7C8006A1446 /* Main.storyboard */,
+				D7C4B9CF27D0E8F400ED9935 /* Models.swift */,
 				D7EEA5E427CBA7C9006A1446 /* Assets.xcassets */,
 				D7EEA5E627CBA7C9006A1446 /* LaunchScreen.storyboard */,
 				D7EEA5E927CBA7C9006A1446 /* Info.plist */,
@@ -145,6 +148,7 @@
 				D7EEA5E027CBA7C8006A1446 /* ViewController.swift in Sources */,
 				D7EEA5DC27CBA7C8006A1446 /* AppDelegate.swift in Sources */,
 				D7EEA5DE27CBA7C8006A1446 /* SceneDelegate.swift in Sources */,
+				D7C4B9D027D0E8F400ED9935 /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
